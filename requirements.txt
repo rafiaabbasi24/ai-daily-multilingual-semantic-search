@@ -1,0 +1,10 @@
+Flask>=2.2
+transformers>=4.35
+torch>=2.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+numpy>=1.23
+scipy>=1.10
+pytest>=7.0
+python-dotenv>=1.0
+gunicorn>=21.0
